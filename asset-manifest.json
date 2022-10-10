@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/paradoxayaz/Go-Text.git/static/css/main.073c9b0a.css",
-    "main.js": "/paradoxayaz/Go-Text.git/static/js/main.50a52476.js",
-    "static/js/787.28cb0dcd.chunk.js": "/paradoxayaz/Go-Text.git/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/paradoxayaz/Go-Text.git/index.html",
-    "main.073c9b0a.css.map": "/paradoxayaz/Go-Text.git/static/css/main.073c9b0a.css.map",
-    "main.50a52476.js.map": "/paradoxayaz/Go-Text.git/static/js/main.50a52476.js.map",
-    "787.28cb0dcd.chunk.js.map": "/paradoxayaz/Go-Text.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Go-Text/static/css/main.073c9b0a.css",
+    "main.js": "/Go-Text/static/js/main.19bfc23b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Go-Text/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Go-Text/index.html",
+    "main.073c9b0a.css.map": "/Go-Text/static/css/main.073c9b0a.css.map",
+    "main.19bfc23b.js.map": "/Go-Text/static/js/main.19bfc23b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Go-Text/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.50a52476.js"
+    "static/js/main.19bfc23b.js"
   ]
 }
